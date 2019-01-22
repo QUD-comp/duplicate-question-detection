@@ -2,10 +2,10 @@
 Classifying duplicate Quora questions using Quora's Kaggle dataset
 
 **********************************
-Questions and Models of Discourse
-University of Potsdam
-Summer Semester, 2018
-Prof. Tatjana Scheffler
+Questions and Models of Discourse  
+University of Potsdam  
+Summer Semester, 2018  
+Prof. Tatjana Scheffler  
 
 Author: Andrew Beaton
 **********************************
