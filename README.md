@@ -1,5 +1,5 @@
 # duplicate-question-detection
-Classifying duplicate Quora questions using Quora's Kaggle dataset
+Classifying duplicate questions using Quora's Kaggle dataset
 
 **********************************
 Questions and Models of Discourse  
@@ -10,13 +10,11 @@ Prof. Tatjana Scheffler
 Author: Andrew Beaton
 **********************************
 
-duplicate_questions.ipynb
-__________________________________
+**duplicate_questions.ipynb**
 
 This notebook contains all code used for this project.  Each cell contains additional comments regarding code usage where relevant.
 
-quora_duplicate_questions.tsv
-__________________________________
+**quora_duplicate_questions.tsv**
 
 This file contains the data provided by Quora via a Kaggle challenge, which can be found here: https://www.kaggle.com/c/quora-question-pairs#description
 
